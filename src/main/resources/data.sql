@@ -1,1 +1,1 @@
-INSERT INTO FRUITS (name,weight) VALUES ('apple',10), ('strawberry',5), ('banana',15), ('lemon',12), ('orange',14);
+INSERT INTO fruits (name,weight) VALUES ('apple',10), ('strawberry',5), ('banana',15), ('lemon',12), ('orange',14);
